@@ -1,3 +1,4 @@
+/* changes to main body of html files */
 main{
     background-color:cornsilk;
         min-height: 100vh;
@@ -6,7 +7,11 @@ main{
         font-size: 20px;
         display: block;
 }
-
+/* changes font of all H2 headers */
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+/* provides css for nav in html files */
 nav {
     position: fixed;
     top: 0;
