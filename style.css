@@ -1,0 +1,49 @@
+main{
+    background-color:cornsilk;
+        min-height: 100vh;
+        padding: 85px 24px 96px;
+        color: black;
+        font-size: 20px;
+        display: block;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    align-items: center;
+    background-color: black;
+    color:white;
+    height: 50px;
+    font-size: 25px;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.endtoend{
+    width: 75%;
+    height: 100%;
+}
+
+.project1{
+    float: right;
+    height: 120px;
+}
+
+.project2{
+    float: left;
+    padding: 10px;
+    height: 120px;
+}
+
+.section2{
+    border-top: 1px solid black;
+    
+}
+
+.nyy{
+    display: block;
+    margin: auto;
+}
